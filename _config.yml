@@ -3,7 +3,7 @@ email:
 description: >-
   HyperExtended Magic the Gathering.
 baseurl: ""
-url: "hypermtg.github.io"
+url: "hextended.com"
 permalink: /blog/:year/:month/:day/:title/
 
 twitter_username: hextended
