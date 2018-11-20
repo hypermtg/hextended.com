@@ -9,7 +9,7 @@ permalink: /blog/:year/:month/:day/:title/
 twitter_username: hextended
 github_username:  hypermtg
 google_analytics:
-    enabled: true
+    enabled: false
     id: UA-129495562-1
 
 markdown: kramdown
