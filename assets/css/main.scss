@@ -8,7 +8,7 @@ body {
     background: #F5F5F0;
 
     padding: 0 2ch;
-    margin: 0 auto;
+    margin: 30px auto 90px;
     max-width: 900px;
 
     @media(max-width: 500px) {
@@ -48,6 +48,20 @@ header {
     display: flex;
     align-items: center;
     flex-direction: column;
+
+    margin-bottom: 45px;
+}
+
+#intro {
+    .credit {
+        margin-bottom: 30px;
+    }
+
+    margin-bottom: 30px;
+}
+
+content {
+    margin-bottom: 30px;
 }
 
 .scryfall-hover {

@@ -5,13 +5,10 @@ layout: page
 {% assign author = site.data.authors[page.author] %}
 
 <section id="intro">
-    <div class="credit">{{ page.date | date: '%Y-%m-%d'}}{% if author %}, Written by <a href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>{% endif %}</div>
-    <br/>
+    <div class="credit">{{ page.date | date: '%Y-%m-%d' }}{% if author %}, Written by <a href="https://twitter.com/{{ author.twitter }}">{{ author.name }}</a>{% endif %}</div>
     <h2>{{ page.title }}</h2>
+    <hr/>
 </section>
-
-<hr/>
-<br/>
 
 <section id="content">
     {{ content }}
