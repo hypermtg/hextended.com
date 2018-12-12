@@ -2,20 +2,11 @@
 layout: home
 ---
 
-<pre>
-Hyper Extended is a constructed format which includes the following
-sets
+Hyper Extended is a constructed format which includes the following sets
 
-Fallen Empires -> Scourge. Including the Black Bordered Portal sets
-One and Second Age.
+Fallen Empires -> Scourge. Including the Black Bordered Portal sets One and Second Age.
 
-No white bordered cards are allowed. No new frame or time shifted
-trash is allowed. You must use the card from the set and can't use
-reprints even going backwards. For example Ice Age contains Swords to
-Plowshares, you can't use a Revised one, or a crappy 4th one. You
-can't even use a gorgeous Beta one. Wrath of God is found only in
-Portal, you must use that one. If a card is in multiple legal sets you
-may use any, or mix and match to trigger your opponents.
+No white bordered cards are allowed. No new frame or time shifted trash is allowed. You must use the card from the set and can't use reprints even going backwards. For example Ice Age contains <a href="https://scryfall.com/card/ice/54/swords-to-plowshares">Swords to Plowshares</a>, you can't use a <a href="https://scryfall.com/card/3ed/41/swords-to-plowshares">Revised</a> one, or a crappy <a href="https://scryfall.com/card/4ed/52/swords-to-plowshares">4th</a> one. You can't even use a gorgeous <a href="https://scryfall.com/card/leb/41/swords-to-plowshares">Beta</a> one. <a href="https://scryfall.com/card/por/39/wrath-of-god">Wrath of God</a> is found only in Portal, you must use that one. If a card is in multiple legal sets you may use any, or mix and match to trigger your opponents.
 
 
 All ante cards are banned.
@@ -24,74 +15,48 @@ Mana burn is on like donkey kong.
 
 Hyper Extended features a restricted list:
 
-Ancient Tomb
-Burning Wish
-Demonic Consultation
-Dream Halls
-Earthcraft
-Enlightened Tutor
-Frantic Search
-Goblin Recruiter
-Grim Monolith
-Brainstorm
-Hermit Druid
-Memory Jar
-Mind’s Desire
-Mystical Tutor
-Necropotence
-Tinker
-Tolarian Academy
-Vampiric Tutor
-Windfall
-Yawgmoth's Bargain
-Yawgmoth's Will
+<a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a><br/>
+<a href="https://scryfall.com/card/jud/83/burning-wish">Burning Wish</a><br/>
+<a href="https://scryfall.com/card/ice/121/demonic-consultation">Demonic Consultation</a><br/>
+<a href="https://scryfall.com/card/sth/28/dream-halls">Dream Halls</a><br/>
+<a href="https://scryfall.com/card/tmp/222/earthcraft">Earthcraft</a><br/>
+<a href="https://scryfall.com/card/mir/14/enlightened-tutor">Enlightened Tutor</a><br/>
+<a href="https://scryfall.com/card/ulg/32/frantic-search">Frantic Search</a><br/>
+<a href="https://scryfall.com/card/vis/80/goblin-recruiter">Goblin Recruiter</a><br/>
+<a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a><br/>
+<a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a><br/>
+<a href="https://scryfall.com/card/sth/108/hermit-druid">Hermit Druid</a><br/>
+<a href="https://scryfall.com/card/ulg/129/memory-jar">Memory Jar</a><br/>
+<a href="https://scryfall.com/card/scg/41/minds-desire">Mind's Desire</a><br/>
+<a href="https://scryfall.com/card/mir/80/mystical-tutor">Mystical Tutor</a><br/>
+<a href="https://scryfall.com/card/ice/154/necropotence">Necropotence</a><br/>
+<a href="https://scryfall.com/card/ulg/45/tinker">Tinker</a><br/>
+<a href="https://scryfall.com/card/usg/330/tolarian-academy">Tolarian Academy</a><br/>
+<a href="https://scryfall.com/card/vis/72/vampiric-tutor">Vampiric Tutor</a><br/>
+<a href="https://scryfall.com/card/usg/111/windfall">Windfall</a><br/>
+<a href="https://scryfall.com/card/uds/75/yawgmoths-bargain">Yawgmoth's Bargain</a><br/>
+<a href="https://scryfall.com/card/usg/171/yawgmoths-will">Yawgmoth's Will</a><br/>
 
 OBSERVE LIST:
 
 <<<<==Unrestrict==>>>>
 
-With a restricted list in place, it can be argued that *Tinker* has
-few targets that can be considered “broken.” A powerful card for sure
-but possibly a candidate for unrestriction. A world without Memory Jar
-would almost certainly see Tinker unrestricted.
+With a restricted list in place, it can be argued that *<a href="https://scryfall.com/card/ulg/45/tinker">Tinker</a>* has few targets that can be considered "broken." A powerful card for sure but possibly a candidate for unrestriction. A world without <a href="https://scryfall.com/card/ulg/129/memory-jar">Memory Jar</a> would almost certainly see <a href="https://scryfall.com/card/ulg/45/tinker">Tinker</a> unrestricted.
 
-*Goblin Recruiter* has proven to be fairly benign. If anything Lackey
-leads to far broken game starts than recruiter. It's synergy with Food
-Chain was also over stated. Adding Food Chain to an otherwise
-streamlined Goblin deck gives your opponent something to take with
-Duress, adds a second color and over all just waters the deck down.
+*<a href="https://scryfall.com/card/vis/80/goblin-recruiter">Goblin Recruiter</a>* has proven to be fairly benign. If anything <a href="https://scryfall.com/card/usg/190/goblin-lackey">Lackey</a> leads to far broken game starts than recruiter. It's synergy with <a href="https://scryfall.com/card/mmq/246/food-chain">Food Chain</a> was also over stated. Adding <a href="https://scryfall.com/card/mmq/246/food-chain">Food Chain</a> to an otherwise streamlined Goblin deck gives your opponent something to take with <a href="https://scryfall.com/card/usg/132/duress">Duress</a>, adds a second color and over all just waters the deck down.
 
-*Ancient Tomb* and *Grim Monolith* these two are to some extent paired
-at the hip. The lack or emergant prison decks is concerning to a group
-who loves to inflict misery and suffering on opponents. The feeling at
-this point is that it may be safe to unrestrict one of these two but
-likely not both. Ancient Tomb would allow for mono color prison decks
-to emerge. Monolith would likely Turbo Charge Metalworker.
+*<a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a>* and *<a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>* these two are to some extent paired at the hip. The lack or emergant prison decks is concerning to a group who loves to inflict misery and suffering on opponents. The feeling at this point is that it may be safe to unrestrict one of these two but likely not both. <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a> would allow for mono color prison decks to emerge. <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> would likely Turbo Charge <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a>.
 
-*Necropotence* ... is utterly fucking busted. If you thought we were
-taking it off you are nuts.
+*<a href="https://scryfall.com/card/ice/154/necropotence">Necropotence</a>* ... is utterly fucking busted. If you thought we were taking it off you are nuts.
 
 <<<<==Restrict==>>>>
 
-*Flash* is the basis of a degenerate, and frankly, boring turn one
-combo that we completely forgot about. Rector / Bargain. I don’t think
-anyone will have a good time with four copies of this spell hanging
-around, but we can try it as a playset first.
+*<a href="https://scryfall.com/card/mir/66/flash">Flash</a>* is the basis of a degenerate, and frankly, boring turn one combo that we completely forgot about. <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a> / <a href="https://scryfall.com/card/uds/75/yawgmoths-bargain">Bargain</a>. I don't think anyone will have a good time with four copies of this spell hanging around, but we can try it as a playset first.
 
-*Lion’s Eye Diamond* has a converted mana cost of 0 and makes three
-mana of any one color. It's pretty fucked with Yawgmoth's Will.
+*<a href="https://scryfall.com/card/mir/307/lions-eye-diamond">Lion's Eye Diamond</a>* has a converted mana cost of 0 and makes three mana of any one color. It's pretty fucked with <a href="https://scryfall.com/card/usg/171/yawgmoths-will">Yawgmoth's Will</a>.
 
-*Oath of Druids* is miserable but given the power level of the fatties
-might not be that broken. There's also no orchard which gives opposing
-decks a chance to interact a little bit.
+*<a href="https://scryfall.com/card/exo/115/oath-of-druids">Oath of Druids</a>* is miserable but given the power level of the fatties might not be that broken. There's also no orchard which gives opposing decks a chance to interact a little bit.
 
-*Time Spiral* when it resolves the game mostly ends. Just restricting
-High Tide would also kill the deck. It's hard to justify restricting a
-6 mana sorcery that exiles itself but it makes the turn 4 high tide
-kill pretty consistant.
+*<a href="https://scryfall.com/card/usg/103/time-spiral">Time Spiral</a>* when it resolves the game mostly ends. Just restricting <a href="https://scryfall.com/card/fem/18b/high-tide">High Tide</a> would also kill the deck. It's hard to justify restricting a 6 mana sorcery that exiles itself but it makes the turn 4 <a href="https://scryfall.com/card/fem/18b/high-tide">high tide</a> kill pretty consistant.
 
-*Gush* seems very underwhelming given how mana bases work. It's best
-home so far has been in Exploration / Turboland shells. Otherwise it's
-been thrown into various tempo decks. It certainly can't be a 4 of
-with Brainstorm running loose.
-</pre>
+*<a href="https://scryfall.com/card/mmq/82/gush">Gush</a>* seems very underwhelming given how mana bases work. It's best home so far has been in <a href="https://scryfall.com/card/usg/250/exploration">Exploration</a> / Turboland shells. Otherwise it's been thrown into various tempo decks. It certainly can't be a 4 of with <a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a> running loose.
