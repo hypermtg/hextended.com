@@ -47,7 +47,7 @@ With a restricted list in place, it can be argued that *<a href="https://scryfal
 
 *<a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a>* and *<a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>* these two are to some extent paired at the hip. The lack or emergant prison decks is concerning to a group who loves to inflict misery and suffering on opponents. The feeling at this point is that it may be safe to unrestrict one of these two but likely not both. <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a> would allow for mono color prison decks to emerge. <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> would likely Turbo Charge <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a>.
 
-*<a href="https://scryfall.com/card/ice/154/necropotence">Necropotence</a>* ... is utterly fucking busted. If you thought we were taking it off you are nuts.
+*<a href="https://scryfall.com/card/ice/154/necropotence">Necropotence</a>* ... is utterly fucking busted. If you thought we were taking it off you are nuts. We like <a href="https://scryfall.com/card/mir/116/dark-ritual">Dark Ritual</a> so Necro has to stay locked up.
 
 <<<<==Restrict==>>>>
 
@@ -59,4 +59,12 @@ With a restricted list in place, it can be argued that *<a href="https://scryfal
 
 *<a href="https://scryfall.com/card/usg/103/time-spiral">Time Spiral</a>* when it resolves the game mostly ends. Just restricting <a href="https://scryfall.com/card/fem/18b/high-tide">High Tide</a> would also kill the deck. It's hard to justify restricting a 6 mana sorcery that exiles itself but it makes the turn 4 <a href="https://scryfall.com/card/fem/18b/high-tide">high tide</a> kill pretty consistant.
 
-*<a href="https://scryfall.com/card/mmq/82/gush">Gush</a>* seems very underwhelming given how mana bases work. It's best home so far has been in <a href="https://scryfall.com/card/usg/250/exploration">Exploration</a> / Turboland shells. Otherwise it's been thrown into various tempo decks. It certainly can't be a 4 of with <a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a> running loose.
+*<a href="https://scryfall.com/card/mmq/82/gush">Gush</a>* seems very underwhelming given how mana bases work. It's best home so far has been in <a href="https://scryfall.com/card/usg/250/exploration">Exploration</a> / Turboland shells. Otherwise it's been thrown into various tempo decks. It certainly can't be a 4 of with <a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a> running loose. It was recently unrestricted.
+
+<<<<==Fallen Empires==>>>>
+
+One thing we're hoping to avoid is just having the same old 93/94 decks and play patterns in Hyper. This is what emerges when you allow shit like 4th edition. <a href="https://scryfall.com/card/4ed/34/land-tax">Land Tax</a> / <a href="https://scryfall.com/card/4ed/273/sylvan-library">Sylvan</a>, every 1 or 2 color aggro deck automatically has 4 <a href="https://scryfall.com/card/4ed/361/mishras-factory">Factories</a>. Every red deck has <a href="https://scryfall.com/card/4ed/208/lightning-bolt">Bolt</a> and you have to clean up the mistakes like <a href="https://scryfall.com/card/4ed/6/balance">Balance</a>, <a href="https://scryfall.com/card/4ed/147/mind-twist">Mind Twist</a> and <a href="https://scryfall.com/card/4ed/236/channel">Channel</a> in your restricted or banned list.
+
+In keeping with this idea we've considered just nuking Fallen Empires from orbit. It is an unattached set that you can argue doesn't fit with the semi modern set design that started with Ice Age.
+
+There are only 4-5 playable cards in the set but they make decks or play patterns. <a href="https://scryfall.com/card/fem/18b/high-tide">High Tide</a>, <a href="https://scryfall.com/card/fem/38c/hymn-to-tourach">Hymn to Tourcock</a> and to a lesser extent the tribal and aggro creatures.

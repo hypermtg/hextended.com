@@ -6,6 +6,7 @@ const scryfallLinks = document.querySelectorAll(`a[href*="scryfall.com/card/"]`)
 document.querySelector('body').insertAdjacentHTML('beforeend', `<img id="scryfall-hover" style="display: block; position: absolute; width: 250px; height: auto;"/>`);
 const scryfallHover = document.querySelector('#scryfall-hover');
 
+// TODO: Calculate whether to position the image below or above, left or right.
 const mouseMoveEvent = (e) => {
     scryfallHover.style.left = `${e.pageX + 10}px`;
     scryfallHover.style.top = `${e.pageY + 10}px`;

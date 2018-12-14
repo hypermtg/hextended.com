@@ -8,11 +8,19 @@ body {
     background: #F5F5F0;
 
     padding: 0 2ch;
-    margin: 30px auto 90px;
+    margin: 30px auto 200px;
     max-width: 900px;
 
     @media(max-width: 500px) {
         font-size: 12px;
+    }
+}
+
+#nav > a {
+    margin-right: 1ch;
+
+    &:last-of-type {
+        margin-right: 0;
     }
 }
 
