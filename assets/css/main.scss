@@ -30,7 +30,7 @@ a {
 }
 
 p {
-    margin: 0 0 25pt 0;
+    // margin: 0 0 25pt 0;
     text-align: justify;
 }
 
@@ -74,4 +74,34 @@ content {
 
 .scryfall-hover {
     text-decoration-style: dotted;
+}
+
+#set-list {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 45px;
+
+    a {
+        flex: 1;
+        min-width: 125px;
+        max-width: 125px;
+
+        text-align: center;
+        text-decoration-style: -moz-none;
+    }
+
+    i {
+        display: block;
+        margin: 10px auto 5px;
+    }
+}
+
+#restricted-list {
+    a:after {
+        content: '\a';
+        white-space: pre;
+    }
+
+    margin-bottom: 45px;
 }
