@@ -32,11 +32,18 @@ layout: home
     <a href="https://scryfall.com/sets/scg"><i class="ss ss-4x ss-fw ss-scg"></i>Scourge</a>
 </div>
 
-Hyper Extended is a constructed format which features the above sets
+Hyper Extended is a constructed format featuring the above black bordered sets as well the following promos.
+<div id="promo-list">
+    <a href="https://scryfall.com/card/plgm/1/counterspell">DCI Counterspell (Dom! Art)</a>
+    <a href="https://scryfall.com/card/plgm/2/incinerate">DCI Incinerate (Jock Art)</a>
+    <a href="https://scryfall.com/card/parl/7/fireball">DCI Fireball (Jock Art)</a>
+</div>
 
 No white bordered cards are allowed. No new frame or time shifted trash is allowed. You must use the card from the set and can't use reprints even going backwards. For example Ice Age contains <a href="https://scryfall.com/card/ice/54/swords-to-plowshares">Swords to Plowshares</a>, you can't use a <a href="https://scryfall.com/card/3ed/41/swords-to-plowshares">Revised</a> one, or a crappy <a href="https://scryfall.com/card/4ed/52/swords-to-plowshares">4th</a> one. You can't even use a gorgeous <a href="https://scryfall.com/card/leb/41/swords-to-plowshares">Beta</a> one. <a href="https://scryfall.com/card/por/39/wrath-of-god">Wrath of God</a> is found only in Portal, you must use that one. If a card is in multiple legal sets you may use any, or mix and match to trigger your opponents.
 
 Gold bordered "Championship" cards are permitted, given that they feature the artwork of a legal printing of the card.
+
+You may play basic lands from any of the promo sets in that time period, as well as those from Unglued.
 
 All ante cards are banned.
 

@@ -97,6 +97,13 @@ content {
     }
 }
 
+#promo-list {
+    a:after {
+        content: '\a';
+        white-space: pre;
+    }
+}
+
 #restricted-list {
     a:after {
         content: '\a';
