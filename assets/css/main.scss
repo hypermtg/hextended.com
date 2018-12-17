@@ -46,6 +46,7 @@ h1, h2 {
     font-size: inherit;
     text-transform: uppercase;
     margin-bottom: 0;
+    margin-top: 30px;
 }
 
 img {
@@ -111,4 +112,39 @@ content {
     }
 
     margin-bottom: 45px;
+}
+
+#post-list {
+    margin-top: 1em;
+
+    > div {
+        margin-bottom: 2ch;
+    }
+
+    .date {
+        margin-right: 1ch;
+    }
+
+    .excerpt {
+        font-style: italic;
+
+        p {
+            margin-top: 1ch;
+            margin-left: 1ch;
+            font-size: 90%;
+        }
+    }
+}
+
+table {
+    border-collapse: collapse;
+
+    th {
+        border-bottom: 1px solid black;
+    }
+
+    th, td {
+        padding: 0 8px;
+        text-align: left;
+    }
 }
