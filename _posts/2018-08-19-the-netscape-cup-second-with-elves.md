@@ -4,7 +4,7 @@ title: "The Netscape Cup: Second with Elves at the largest HyperExtended tournam
 author: haganbmj
 date: 2018-08-19 23:51:57 -0400
 categories: blog
-tags: report
+tags: report decks
 ---
 
 After weeks of brewing and trying to get an edge on the meta in preparation for the inaugural Netscape Cup I settled on the following list for HyperExtended Elves.
