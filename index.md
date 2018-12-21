@@ -32,7 +32,7 @@ layout: home
     <a href="https://scryfall.com/sets/scg"><i class="ss ss-4x ss-fw ss-scg"></i>Scourge</a>
 </div>
 
-Hyper Extended is a constructed format featuring the above black bordered sets as well the following promos.
+Hyper Extended is a constructed format composed of the black bordered sets from Fallen Empires to Scourge, including the Portal sets One and Second Age and the following promos.
 <div id="promo-list">
     <a href="https://scryfall.com/card/plgm/1/counterspell">DCI Counterspell (Dom! Art)</a>
     <a href="https://scryfall.com/card/plgm/2/incinerate">DCI Incinerate (Jock Art)</a>
