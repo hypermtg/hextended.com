@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Netscape Cup: Second with Elves at the largest HyperExtended tournament yet"
-author: haganbmj
+author: brendanhagan
 date: 2018-08-19 23:51:57 -0400
 categories: blog
 tags: report decks

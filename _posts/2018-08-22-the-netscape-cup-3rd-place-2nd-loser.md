@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Netscape Cup. 3rd Place. 2nd loser."
-author: whienot
+author: mattwebster
 date: 2018-08-22 22:18:25 -0000
 categories: blog
 tags: report decks
