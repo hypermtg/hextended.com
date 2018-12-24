@@ -9,7 +9,7 @@ body {
 
     padding: 0 2ch;
     margin: 30px auto 200px;
-    max-width: 900px;
+    max-width: 1000px;
 
     @media(max-width: 500px) {
         font-size: 12px;
@@ -51,6 +51,7 @@ h1, h2 {
 
 img {
     border: none;
+    max-width: 100%;
 }
 
 header {
@@ -152,4 +153,33 @@ table {
         padding: 0 8px;
         text-align: left;
     }
+}
+
+.deck {
+    display: flex;
+
+    > div {
+        flex-grow: 1;
+        flex-basis: 150px;
+        border-right: 5px solid transparent;
+        border-bottom: 10px solid transparent;
+    }
+
+    @media (max-width: 1024px) {
+        flex-direction: column;
+
+        > div {
+            flex-basis: 0;
+        }
+    }
+}
+
+.image-set {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-pair {
+    display: flex;
+    flex-direction: row;
 }
