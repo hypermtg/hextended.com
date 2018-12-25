@@ -51,6 +51,8 @@ h1, h2 {
 
 img {
     border: none;
+    width: auto;
+    height: auto;
     max-width: 100%;
 }
 
@@ -182,4 +184,6 @@ table {
 .image-pair {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    max-width: 100%;
 }
