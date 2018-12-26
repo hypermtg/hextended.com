@@ -13,5 +13,9 @@ google_analytics:
     id: UA-129495562-1
 
 markdown: kramdown
+kramdown:
+    smart_quotes: apos,apos,quot,quot
+    typographic_symbols: {hellip: ..., ndash: --}
+
 plugins:
   - jekyll-feed

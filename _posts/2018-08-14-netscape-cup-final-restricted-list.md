@@ -4,7 +4,7 @@ title: "HYPER EXTENDED - Netscape Cup Final Restricted List"
 author: teamtuskmtg
 date: 2018-08-14 12:18:14 -0400
 categories: blog
-tags: announcement
+tags: announcement events
 ---
 
 The final format update before the Netscape Cup.

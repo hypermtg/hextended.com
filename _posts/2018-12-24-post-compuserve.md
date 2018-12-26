@@ -4,7 +4,7 @@ title: "The CompuServe Open Results"
 author: brendanhagan
 date: 2018-12-24 17:00:00 -0500
 categories: blog
-tags: announcement events report decks
+tags: events report decks
 ---
 
 Boasting an impressive 18 players the CompuServe Open has come to a close. The event was a blast to attend and I hope everyone is looking forward to future chances to play Hyper.
