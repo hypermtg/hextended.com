@@ -131,4 +131,4 @@ There are only 4-5 playable cards in the set but they make decks or play pattern
 
 Fallen Empires lives another day
 
-<marquee><a href="https://scryfall.com/card/fem/36/derelor">LONG LIVE DERELOR!</a></marquee>
+<marquee><a id="derelor" href="https://scryfall.com/card/fem/36/derelor">LONG LIVE DERELOR!</a></marquee>
