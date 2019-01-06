@@ -189,7 +189,12 @@ table {
     max-width: 100%;
 }
 
+.blink {
+    animation: blinking 1s step-start infinite;
+}
 
-marquee {
-    height: 18px;
+@keyframes blinking {
+    50% {
+        opacity: 0;
+    }
 }
