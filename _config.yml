@@ -9,13 +9,13 @@ permalink: /blog/:year/:month/:day/:title/
 twitter_username: hextended
 github_username:  hypermtg
 google_analytics:
-    enabled: false
-    id: UA-129495562-1
+  enabled: false
+  id: UA-129495562-1
 
 markdown: kramdown
 kramdown:
-    smart_quotes: apos,apos,quot,quot
-    typographic_symbols: {hellip: ..., ndash: --}
+  smart_quotes: apos,apos,quot,quot
+  typographic_symbols: {hellip: ..., ndash: --}
 
 plugins:
   - jekyll-feed
