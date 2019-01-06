@@ -8,10 +8,19 @@
     document.querySelector('body').insertAdjacentHTML('beforeend', `<img id="scryfall-tooltip" style="display: block; position: absolute; width: 250px; height: auto; border-radius: 11px;"/>`);
     const scryfallTooltip = document.querySelector('#scryfall-tooltip');
 
-    // TODO: Calculate whether to position the image below or above, left or right.
     const mouseMoveEvent = (e) => {
-        scryfallTooltip.style.left = `${e.pageX + 10}px`;
-        scryfallTooltip.style.top = `${e.pageY + 10}px`;
+        // Adding 40 here to account for the 10 px float and any scrollbars.
+        if (e.clientX + 250 + 40 > window.innerWidth) {
+            scryfallTooltip.style.left = `${e.pageX - 250 - 10}px`;
+        } else {
+            scryfallTooltip.style.left = `${e.pageX + 10}px`;
+        }
+
+        if (e.clientY + 350 + 40 > window.innerHeight) {
+            scryfallTooltip.style.top = `${e.pageY - 350 - 10}px`;
+        } else {
+            scryfallTooltip.style.top = `${e.pageY + 10}px`;
+        }
     };
 
     const showScryfallImage = (url) => {
