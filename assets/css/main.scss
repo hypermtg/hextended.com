@@ -184,6 +184,7 @@ table {
 .image-pair {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     max-width: 100%;
 }
