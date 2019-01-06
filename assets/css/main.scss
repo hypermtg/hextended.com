@@ -188,3 +188,13 @@ table {
     align-items: center;
     max-width: 100%;
 }
+
+.blink {
+    animation: blinking 1s step-start infinite;
+}
+
+@keyframes blinking {
+    50% {
+        opacity: 0;
+    }
+}
