@@ -75,6 +75,10 @@ Hyper Extended features a restricted list:
     <a href="https://scryfall.com/card/usg/171/yawgmoths-will">Yawgmoth's Will</a>
 </div>
 
+Here's a starter Scryfall search that you can use to check on whether various cards existed during this time period.
+
+<a href="https://scryfall.com/search?q=game%3Apaper+language%3Aenglish+border%3Ablack+date%3E%3Dfem+date%3C%3Dscg&unique=cards&as=grid&order=name">game:paper language:english border:black date>=fem date<=scg</a>
+
 <h2>OBSERVE LIST:</h2>
 <hr/>
 
