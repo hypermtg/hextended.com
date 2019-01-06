@@ -61,7 +61,6 @@ Hyper Extended features a restricted list:
     <a href="https://scryfall.com/card/mir/14/enlightened-tutor">Enlightened Tutor</a>
     <a href="https://scryfall.com/card/ulg/32/frantic-search">Frantic Search</a>
     <a href="https://scryfall.com/card/vis/80/goblin-recruiter">Goblin Recruiter</a>
-    <a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>
     <a href="https://scryfall.com/card/sth/108/hermit-druid">Hermit Druid</a>
     <a href="https://scryfall.com/card/ulg/129/memory-jar">Memory Jar</a>
     <a href="https://scryfall.com/card/scg/41/minds-desire">Mind's Desire</a>
@@ -88,21 +87,39 @@ With a restricted list in place, it can be argued that *<a href="https://scryfal
 
 *<a href="https://scryfall.com/card/vis/80/goblin-recruiter">Goblin Recruiter</a>* has proven to be fairly benign. If anything <a href="https://scryfall.com/card/usg/190/goblin-lackey">Lackey</a> leads to far broken game starts than recruiter. It's synergy with <a href="https://scryfall.com/card/mmq/246/food-chain">Food Chain</a> was also over stated. Adding <a href="https://scryfall.com/card/mmq/246/food-chain">Food Chain</a> to an otherwise streamlined Goblin deck gives your opponent something to take with <a href="https://scryfall.com/card/usg/132/duress">Duress</a>, adds a second color and over all just waters the deck down.
 
-*<a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a>* and *<a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>* these two are to some extent paired at the hip. The lack or emergant prison decks is concerning to a group who loves to inflict misery and suffering on opponents. The feeling at this point is that it may be safe to unrestrict one of these two but likely not both. <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a> would allow for mono color prison decks to emerge. <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> would likely Turbo Charge <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a>.
+*<a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a>* remains. If we face <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a> utter domination then clearly <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a> must remain beneath the remains.
 
-*<a href="https://scryfall.com/card/ice/154/necropotence">Necropotence</a>* ... is utterly fucking busted. If you thought we were taking it off you are nuts. We like <a href="https://scryfall.com/card/mir/116/dark-ritual">Dark Ritual</a> so Necro has to stay locked up.
+CITIES IN RUINS
+
+BODIES PACKED ON MINEFIELDS
+
+NEUROTIC GAME OF LIFE AND DEATH
+
+NOW I CAN FEEL THE END
+
+PREMONITION ABOUT MY FINAL HOUR
+
+A SAD IMAGE OF EVERYTHING
+
+EVERYTHING'S SO REAL
+
+WHO HAS WON?
+
+WHO HAS DIED?
+
+BENEATH THE REMAINS
+
+*<a href="https://scryfall.com/card/sth/108/hermit-druid">Hermit Druid</a>* I'm not convinced tihs is much better than <a href="https://scryfall.com/card/mir/66/flash">Flash</a> / <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a>. It gets distrupted by <a href="https://scryfall.com/card/usg/132/duress">Zwang</a>, by grave hate, by creature kill and by bad luck. But it is if everything falls perfectly a 1 card combo. The key difference in hyper is you still need a reanimation spell in hand or must go through a complex <a href="https://scryfall.com/card/jud/122/krosan-reclamation">Krosan Reclamation</a> to rebuild a small deck only to get your <a href="https://scryfall.com/card/jud/73/sutured-ghoul">ghoul</a> <a href="https://scryfall.com/card/ice/54/swords-to-plowshares">plowed</a> or to have me <a href="https://scryfall.com/card/ody/94/predict">Predict</a> the fucking reanimation spell off your deck.
 
 <<<<==Restrict==>>>>
 
-*<a href="https://scryfall.com/card/mir/66/flash">Flash</a>* is the basis of a degenerate, and frankly, boring turn one combo that we completely forgot about. <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a> / <a href="https://scryfall.com/card/uds/75/yawgmoths-bargain">Bargain</a>. I don't think anyone will have a good time with four copies of this spell hanging around, but we can try it as a playset first.
+*<a href="https://scryfall.com/card/mir/66/flash">Flash</a>* is the basis of a degenerate, and frankly, boring turn one combo that we completely forgot about. <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a> / <a href="https://scryfall.com/card/uds/75/yawgmoths-bargain">Bargain</a>. Our resident Flash Rectum player has absurdly shitty luck which may have artifically deflated this archtypes performance. 
 
 *<a href="https://scryfall.com/card/mir/307/lions-eye-diamond">Lion's Eye Diamond</a>* has a converted mana cost of 0 and makes three mana of any one color. It's pretty fucked with <a href="https://scryfall.com/card/usg/171/yawgmoths-will">Yawgmoth's Will</a>.
 
 *<a href="https://scryfall.com/card/exo/115/oath-of-druids">Oath of Druids</a>* is miserable but given the power level of the fatties might not be that broken. There's also no orchard which gives opposing decks a chance to interact a little bit.
 
 *<a href="https://scryfall.com/card/usg/103/time-spiral">Time Spiral</a>* when it resolves the game mostly ends. Just restricting <a href="https://scryfall.com/card/fem/18b/high-tide">High Tide</a> would also kill the deck. It's hard to justify restricting a 6 mana sorcery that exiles itself but it makes the turn 4 <a href="https://scryfall.com/card/fem/18b/high-tide">high tide</a> kill pretty consistant.
-
-*<a href="https://scryfall.com/card/mmq/82/gush">Gush</a>* seems very underwhelming given how mana bases work. It's best home so far has been in <a href="https://scryfall.com/card/usg/250/exploration">Exploration</a> / Turboland shells. Otherwise it's been thrown into various tempo decks. It certainly can't be a 4 of with <a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a> running loose. It was recently unrestricted.
 
 <<<<==Fallen Empires==>>>>
 
@@ -111,3 +128,7 @@ One thing we're hoping to avoid is just having the same old 93/94 decks and play
 In keeping with this idea we've considered just nuking Fallen Empires from orbit. It is an unattached set that you can argue doesn't fit with the semi modern set design that started with Ice Age.
 
 There are only 4-5 playable cards in the set but they make decks or play patterns. <a href="https://scryfall.com/card/fem/18b/high-tide">High Tide</a>, <a href="https://scryfall.com/card/fem/38c/hymn-to-tourach">Hymn to Tourcock</a> and to a lesser extent the tribal and aggro creatures.
+
+Fallen Empires lives another day
+
+<marquee><a href="https://scryfall.com/card/fem/36/derelor">LONG LIVE DERELOR!</a></marquee>
