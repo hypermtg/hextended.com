@@ -19,3 +19,4 @@ kramdown:
 
 plugins:
   - jekyll-feed
+  - jekyll-octicons
