@@ -198,3 +198,12 @@ table {
         opacity: 0;
     }
 }
+
+.github {
+    opacity: 1;
+    transition: 0.5s ease-in-out;
+
+    &:hover {
+        opacity: 0.5;
+    }
+}
