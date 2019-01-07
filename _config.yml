@@ -21,3 +21,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-octicons
+  - jekyll-twitter-plugin
