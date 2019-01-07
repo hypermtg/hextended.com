@@ -3,7 +3,7 @@ email:
 description: >-
   Hyper Extended Magic the Gathering.
 baseurl: ""
-url: "hextended.com"
+url: "https://hextended.com"
 permalink: /blog/:year/:month/:day/:title/
 
 twitter_username: hextended
@@ -19,4 +19,5 @@ kramdown:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-octicons
