@@ -17,6 +17,10 @@ None. My money was on <a href="https://scryfall.com/card/uds/1/academy-rector">R
 
 *<a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim Monolith</a>* The lack of emergant prison decks is concerning to a group who loves to inflict misery and suffering on opponents. We debated either <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a> or the <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> but decided <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> is the less flexible worse of the two. It does combo with <a href="https://scryfall.com/card/usg/314/voltaic-key">Voltaic Key</a> but when scanning the amount of things that cost 3 (or 4 in the case of the nut draw, Sol Land -> <a href="https://scryfall.com/card/ulg/126/grim-monolith">Grim</a> -> <a href="https://scryfall.com/card/usg/314/voltaic-key">Key</a> -> Untap -> 4 mana) the scariest thing we came up with is <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a>. We decided we want to see a playable <a href="https://scryfall.com/card/uds/135/metalworker">Metalworker</a> deck. <a href="https://scryfall.com/card/ulg/126/grim-monolith">Monolith</a> could also support casting <a href="https://scryfall.com/card/por/5/armageddon">Armageddon</a> quickly. The downside is it does support casting <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a> quickly. Pick up your <a href="https://scryfall.com/card/wth/154/null-rod">Null Rods</a> now the age of iron has begun!
 
+<---------> Rules Adjustments <--------->
+
+Wishes may grab cards from the Exile zone.
+
 <hr/>
 
 THE ROAD TO THE ________________________ BEGINS NOW! (the Compuserve champion has yet to determine a theme)
