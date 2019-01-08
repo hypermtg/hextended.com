@@ -5,6 +5,8 @@ description: >-
 baseurl: ""
 url: "https://hextended.com"
 permalink: /blog/:year/:month/:day/:title/
+exclude:
+- readme.md
 
 twitter_username: hextended
 github_username:  hypermtg
@@ -18,6 +20,6 @@ kramdown:
   typographic_symbols: {hellip: ..., ndash: --}
 
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-octicons
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-octicons
