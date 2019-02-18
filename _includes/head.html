@@ -1,12 +1,44 @@
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
+<meta charset="UTF-8">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="author" content="Hyper Extended">
 <meta name="description" content="Hyper Extended - Magic the Gathering">
-<meta name="keywords" content="mtg,Magic the Gathering,Hyper Extended">
+<meta name="keywords" content="mtg,Magic,Magic the Gathering,Hyper Extended,Hextended">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {% feed_meta %}
+
+<!-- Twitter cards -->
+{% if page.title %}
+<meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+<meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+
+{% assign author = site.data.authors[page.author] %}
+{% if author.twitter %}
+<meta name="twitter:creator" content="@{{ author.twitter }}">
+{% else %}
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+{% endif %}
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ site.url }}{{ site.meta_image }}">
+{% endif %}
 
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
 

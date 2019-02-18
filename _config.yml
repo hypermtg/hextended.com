@@ -2,6 +2,8 @@ title: Hyper Extended MTG
 email:
 description: >-
   Hyper Extended Magic the Gathering.
+meta_image: /assets/img/compuserve/20181222_173749.jpg
+
 baseurl: ""
 url: "https://hextended.com"
 permalink: /blog/:year/:month/:day/:title/
@@ -10,6 +12,7 @@ exclude:
 
 twitter_username: hextended
 github_username:  hypermtg
+github_repo: hypermtg/hypermtg.github.io
 google_analytics:
   enabled: false
   id: UA-129495562-1
