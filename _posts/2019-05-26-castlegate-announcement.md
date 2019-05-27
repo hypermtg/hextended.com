@@ -10,7 +10,7 @@ tags: announcement events
 Where: Giga Bites Cafe, Marietta, GA<br/>
 When: 06/29/2019, 2pm ET<br/>
 Who: Hopefully everybody<br/>
-Cost: $0<br/>
+Cost: $10<br/>
 Facebook: <a href="https://www.facebook.com/events/2955608484479385/">https://www.facebook.com/events/2955608484479385/</a><br/>
 Stream: <a href="https://twitch.tv/tuskvision">https://twitch.tv/tuskvision</a><br/>
 
