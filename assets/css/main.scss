@@ -51,7 +51,7 @@ h1, h2 {
 
 img {
     border: none;
-    width: auto;
+    width: 100%;
     height: auto;
     max-width: 100%;
 }
@@ -187,6 +187,10 @@ table {
     flex-wrap: wrap;
     align-items: center;
     max-width: 100%;
+
+    img {
+        width: auto;
+    }
 }
 
 .blink {
