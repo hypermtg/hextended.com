@@ -65,11 +65,44 @@ header {
 }
 
 #intro {
-    .credit {
-        margin-bottom: 30px;
+    margin-bottom: 2em;
+
+    h1, h2 {
+        margin-top: unset;
     }
 
-    margin-bottom: 30px;
+    h1 {
+        font-size: 135%;
+    }
+
+    h2 {
+        margin-left: 1em;
+        margin-top: 0.25em;
+        text-transform: none;
+
+        &:before {
+            content: '> ';
+        }
+    }
+
+    .title {
+        margin-bottom: 1em;
+    }
+
+    .credit {
+        font-style: italic;
+        margin-bottom: 1em;
+    }
+
+    .tags {
+        font-size: 90%;
+        margin-bottom: 1.5em;
+
+        .tag {
+            text-decoration: none;
+            box-shadow: inset 0 -1px 0 white, inset 0 -2px 0 black;
+        }
+    }
 }
 
 content {

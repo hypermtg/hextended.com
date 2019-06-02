@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 ---
 
 <div id="set-list">

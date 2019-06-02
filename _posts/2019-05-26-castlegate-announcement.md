@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Castlegate Classic, June 29th, 2019"
+subtitle: "Announcing the next named Hyper event in Marietta, GA"
 author: brendanhagan
 date: 2019-05-26 21:30:00 -0500
 categories: blog
