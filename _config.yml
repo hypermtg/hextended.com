@@ -35,15 +35,9 @@ jekyll-archives:
     - month
     - tags
   layout: archive
-  layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    category: category-archive
-    tag: tag-archive
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    day: '/archive/:year/:month/:day/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'

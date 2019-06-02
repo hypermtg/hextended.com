@@ -13,7 +13,7 @@ layout: page
     <div class="tags">
         {% if page.tags %}Tags: {% endif %}
         {% for tag in page.tags %}
-        <a class="tag" href="{{ site.baseurl }}/tag/{{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
+        <a class="tag" href="{{ site.baseurl }}/archive/tag/{{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
         {% endfor %}
     </div>
     <hr/>

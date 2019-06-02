@@ -34,14 +34,6 @@ p {
     text-align: justify;
 }
 
-pre {
-    font-family: $base-font-family;
-    background-color: white;
-    border: 1px solid black;
-    padding: 1ch 2ch;
-    overflow: scroll;
-}
-
 h1, h2 {
     font-size: inherit;
     text-transform: uppercase;
@@ -146,8 +138,6 @@ content {
         content: '\a';
         white-space: pre;
     }
-
-    margin-bottom: 45px;
 }
 
 #post-list {
