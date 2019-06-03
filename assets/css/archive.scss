@@ -1,0 +1,88 @@
+---
+---
+
+.posts {
+    list-style: none;
+    padding-left: 0;
+
+    li {
+        margin-bottom: 4vh;
+    }
+
+    .title {
+        margin-bottom: 0.5em;
+        text-transform: unset;
+
+        h1 {
+            font-size: 135%;
+            margin-bottom: 0;
+        }
+
+        h2 {
+            margin-left: 1em;
+            margin-top: 0.25em;
+            text-transform: none;
+            font-size: 100%;
+
+            &:before {
+                content: '> ';
+            }
+        }
+    }
+
+    .about {
+        margin-left: 2em;
+    }
+
+    .credit {
+        margin-bottom: 1em;
+    }
+
+    .excerpt {
+        font-style: italic;
+        font-size: 90%;
+    }
+}
+
+.tag-button {
+    padding: 1em;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 999em;
+    padding: 0 10px 0 10px;
+    line-height: 24px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.main_container {
+    flex-shrink: 1;
+}
+
+.sidebar_container {
+
+}
+
+.sidebar_container ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+@media all and (max-width: 699px) {
+    .posts .title h1 {
+        font-size: 120%;
+    }
+
+    .posts .title h2 {
+        margin-left: 0.5em;
+    }
+
+    .posts .about {
+        margin-left: 0em;
+    }
+}

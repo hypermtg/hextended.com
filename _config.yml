@@ -7,6 +7,8 @@ meta_image: /assets/img/compuserve/20181222_173749.jpg
 baseurl: ""
 url: "https://hextended.com"
 permalink: /blog/:year/:month/:day/:title/
+include:
+- "_pages"
 exclude:
 - readme.md
 
@@ -26,3 +28,16 @@ plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-octicons
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+  layout: archive
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    day: '/archive/:year/:month/:day/'
+    tag: '/archive/tag/:name/'
+    category: '/archive/category/:name/'

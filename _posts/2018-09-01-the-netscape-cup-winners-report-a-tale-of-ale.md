@@ -208,7 +208,7 @@ Slops to Tainted Field, t'ain't your ass and t'ain't your balls. Slops to Chris 
 
 Up next is the Compuserve Invitational.
 
-```
+<pre style="font: 1vw/1vw monospace;">
 mmmmNNNNNNNNNNNmmdhhyyyyhhhdddddddddmNNNNNMMNNNNNNNNNNNNNNNNNNmmmmmmmmmmmdddmmmmmmmmmmmmmmmmmmmmms:::::////////++ooossydddmNNNNNNhsooo++++++++++++++osyhdmmNNNNNNNNNNNNNNNNNNNNNNNmmdhysoooo++++++++++++
 mmNmNNNNNNNNNNNNNNNmmdhhhhddddddddmNNNMMNNMMNNNNNNNNNNNNNNNNNNNmmmmmmmmmddmmmmmmmmmmmmmmmmmmmmmmmds+/+shyyssysso+oshdmmmmmdddddmmhssooo++++++/////++++++oossyhhhhhhhhhhhysssyyssooo+++++++++++++++++++++
 mmNmNNNNNNNNNNNNNNNNNNmmddmmmmmNNNNNNMMNNNMNNmmNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNy+++syooshddhhhdmmdddddddhhhhddhysssooo++++++////++++++++++oossoo+++++//++++/+++++++++++++++++++++oooo
@@ -285,4 +285,4 @@ ooo+/:-.......................::::::///:ossooso+:/shhyyyyyyysooooooooosssssss+/:
 ...................`````````````````..------/:--::-/+ssso:::+/oooosossssssssssssssssssosssssssssssssysssysyyyyyyyyyyyyyyyyhhhhhysssyyyhhhsssyssssssssyyhhyyyyss++//ossoo+//////////////:/+/:::oo/::::+oo
 .....................````````````````..---::/:-:/:-/oosss::::sosoossosssssssssssssssssssssyysysysssssysssssyyysyyyyyyyyyyyyyyyyysssyyyhhysssyyssssssyyyhhhhyyyyys+/osyyyssooo+++//////:::::::::/:::::/o+
 .....................``````````````.....--/:/::://-/o+ooo:--osssssosoossssssssssssssssssssssssssssssssssyysysyssyyyyyyyyyyyyyyyysssyyhhhysoyyyyyyyyyyyyyhhhhhhhyyyyyyhyyyssyyyyyyssooo++////:::::::::://
-```
+</pre>
