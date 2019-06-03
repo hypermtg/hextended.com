@@ -11,6 +11,10 @@ include:
 - "_pages"
 exclude:
 - readme.md
+- start.cmd
+- start.sh
+- Gemfile
+- Gemfile.lock
 
 twitter_username: hextended
 github_username:  hypermtg
