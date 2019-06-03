@@ -1,4 +1,4 @@
-# hypermtg.github.io (hextended.com)
+# hextended.com
 
 Hyper Extended is a variant Magic format originating in Atlanta, Georgia, USA.
 
@@ -12,5 +12,3 @@ gem install bundler
 bundle install
 bundle exec jekyll serve
 ```
-
-Note: This project is currently using Github Page's build configuration, so some plugins are not available. If there's something beneficial that isn't supported I'll hook this up to Travis and use that instead.
