@@ -33,13 +33,9 @@ WHO HAS DIED?
 
 BENEATH THE REMAINS
 
-*<a href="https://scryfall.com/card/sth/108/hermit-druid">Hermit Druid</a>* I'm not convinced that this is much better than <a href="https://scryfall.com/card/mir/66/flash">Flash</a> / <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a>. It gets distrupted by <a href="https://scryfall.com/card/usg/132/duress">Zwang</a>, by grave hate, by creature kill and by bad luck. But it is if everything falls perfectly a 1 card combo. The key difference in hyper is you still need a reanimation spell in hand or must go through a complex <a href="https://scryfall.com/card/jud/122/krosan-reclamation">Krosan Reclamation</a> to rebuild a small deck only to get your <a href="https://scryfall.com/card/jud/73/sutured-ghoul">ghoul</a> <a href="https://scryfall.com/card/ice/54/swords-to-plowshares">plowed</a> or to have me <a href="https://scryfall.com/card/ody/94/predict">Predict</a> the fucking reanimation spell off your deck.
-
 <hr/>
 
 <<<<==Restrict==>>>>
-
-*<a href="https://scryfall.com/card/mir/66/flash">Flash</a>* is the basis of a degenerate, and frankly, boring turn one combo that we completely forgot about. <a href="https://scryfall.com/card/uds/1/academy-rector">Rector</a> / <a href="https://scryfall.com/card/uds/75/yawgmoths-bargain">Bargain</a>. Our resident Flash Rectum player has absurdly shitty luck which may have artifically deflated this archtypes performance. 
 
 *<a href="https://scryfall.com/card/mir/307/lions-eye-diamond">Lion's Eye Diamond</a>* has a converted mana cost of 0 and makes three mana of any one color. It's pretty fucked with <a href="https://scryfall.com/card/usg/171/yawgmoths-will">Yawgmoth's Will</a>.
 

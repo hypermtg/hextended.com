@@ -45,16 +45,15 @@ All ante cards are banned.
 Hyper Extended features a restricted list (<a href="/restricted-list">Visual View</a>):
 
 <p id="restricted-list">
+    {% card "Academy Rector" %}
     <a href="https://scryfall.com/card/tmp/315/ancient-tomb">Ancient Tomb</a>
     <a href="https://scryfall.com/card/mmq/61/brainstorm">Brainstorm</a>
     <a href="https://scryfall.com/card/jud/83/burning-wish">Burning Wish</a>
     <a href="https://scryfall.com/card/ice/121/demonic-consultation">Demonic Consultation</a>
-    <a href="https://scryfall.com/card/sth/28/dream-halls">Dream Halls</a>
     <a href="https://scryfall.com/card/tmp/222/earthcraft">Earthcraft</a>
     <a href="https://scryfall.com/card/mir/14/enlightened-tutor">Enlightened Tutor</a>
     <a href="https://scryfall.com/card/ulg/32/frantic-search">Frantic Search</a>
     <a href="https://scryfall.com/card/vis/80/goblin-recruiter">Goblin Recruiter</a>
-    <a href="https://scryfall.com/card/sth/108/hermit-druid">Hermit Druid</a>
     <a href="https://scryfall.com/card/ulg/129/memory-jar">Memory Jar</a>
     <a href="https://scryfall.com/card/scg/41/minds-desire">Mind's Desire</a>
     <a href="https://scryfall.com/card/mir/80/mystical-tutor">Mystical Tutor</a>
