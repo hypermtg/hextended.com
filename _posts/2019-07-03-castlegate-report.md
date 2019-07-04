@@ -80,50 +80,50 @@ It was a delight to see the deck diversity that was present this weekend, with 1
 
 <div class="deck">
     <div>
-        <div>1 {% card "Brainstorm" %}</div>
-        <div>2 {% card "Impulse" %}</div>
-        <div>2 {% card "Counterspell" %}</div>
-        <div>1 {% card "Read the Runes" %}</div>
-        <div>4 {% card "Cabal Therapy" %}</div>
-        <div>4 {% card "Dark Ritual" %}</div>
-        <div>4 {% card "Entomb" %}</div>
-        <div>3 {% card "Reanimate" %}</div>
-        <div>4 {% card "Exhume" %}</div>
-        <div>2 {% card "Necromancy" %}</div>
-        <div>2 {% card "Zombie Infestation" %}</div>
-        <div>3 {% card "Braids, Cabal Minion" %}</div>
-        <div>1 {% card "Hidden Horror" %}</div>
-        <div>1 {% card "Living Death" %}</div>
+        <div>1 {% card Brainstorm %}</div>
+        <div>2 {% card Impulse %}</div>
+        <div>2 {% card Counterspell %}</div>
+        <div>1 {% card Read the Runes %}</div>
+        <div>4 {% card Cabal Therapy %}</div>
+        <div>4 {% card Dark Ritual %}</div>
+        <div>4 {% card Entomb %}</div>
+        <div>3 {% card Reanimate %}</div>
+        <div>4 {% card Exhume %}</div>
+        <div>2 {% card Necromancy %}</div>
+        <div>2 {% card Zombie Infestation %}</div>
+        <div>3 {% card Braids, Cabal Minion %}</div>
+        <div>1 {% card Hidden Horror %}</div>
+        <div>1 {% card Living Death %}</div>
     </div>
     <div>
-        <div>2 {% card "Verdant Force" %}</div>
-        <div>1 {% card "Reya Dawnbringer" %}</div>
-        <div>1 {% card "Arcanis the Omnipotent" %}</div>
-        <div>1 {% card "Symbiotic Wurm" %}</div>
+        <div>2 {% card Verdant Force %}</div>
+        <div>1 {% card Reya Dawnbringer %}</div>
+        <div>1 {% card Arcanis the Omnipotent %}</div>
+        <div>1 {% card Symbiotic Wurm %}</div>
         <div>&nbsp;</div>
-        <div>4 {% card "Island" %}</div>
-        <div>5 {% card "Swamp" %}</div>
-        <div>2 {% card "Gemstone Mine" %}</div>
-        <div>2 {% card "Undiscovered Paradise" %}</div>
-        <div>2 {% card "Reflecting Pool" %}</div>
-        <div>2 {% card "Underground River" %}</div>
-        <div>4 {% card "Polluted Delta" %}</div>
+        <div>4 {% card Island %}</div>
+        <div>5 {% card Swamp %}</div>
+        <div>2 {% card Gemstone Mine %}</div>
+        <div>2 {% card Undiscovered Paradise %}</div>
+        <div>2 {% card Reflecting Pool %}</div>
+        <div>2 {% card Underground River %}</div>
+        <div>4 {% card Polluted Delta %}</div>
     </div>
     <div>
         Sideboard:
-        <div>2 {% card "Show and Tell" %}</div>
-        <div>1 {% card "Haunting Echoes" %}</div>
-        <div>1 {% card "Akroma, Angel of Wrath" %}</div>
-        <div>1 {% card "Ascendant Evincar" %}</div>
-        <div>2 {% card "Lobotomy" %}</div>
-        <div>1 {% card "Avatar of Woe" %}</div>
-        <div>1 {% card "Tsabo's Web" %}</div>
-        <div>1 {% card "Coffin Purge" %}</div>
-        <div>1 {% card "Iridescent Angel" %}</div>
-        <div>1 {% card "Quicksilver Amulet" %}</div>
-        <div>1 {% card "Perish" %}</div>
-        <div>1 {% card "Uktabi Orangutan" %}</div>
-        <div>1 {% card "Serenity" %}</div>
+        <div>2 {% card Show and Tell %}</div>
+        <div>1 {% card Haunting Echoes %}</div>
+        <div>1 {% card Akroma, Angel of Wrath %}</div>
+        <div>1 {% card Ascendant Evincar %}</div>
+        <div>2 {% card Lobotomy %}</div>
+        <div>1 {% card Avatar of Woe %}</div>
+        <div>1 {% card Tsabo's Web %}</div>
+        <div>1 {% card Coffin Purge %}</div>
+        <div>1 {% card Iridescent Angel %}</div>
+        <div>1 {% card Quicksilver Amulet %}</div>
+        <div>1 {% card Perish %}</div>
+        <div>1 {% card Uktabi Orangutan %}</div>
+        <div>1 {% card Serenity %}</div>
     </div>
 </div>
 
@@ -134,38 +134,38 @@ It was a delight to see the deck diversity that was present this weekend, with 1
 
 <div class="deck">
     <div>
-        <div>1 {% card "Elvish Lyrist" %}</div>
-        <div>2 {% card "Elvish Scrapper" %}</div>
-        <div>4 {% card "Birchlore Rangers" %}</div>
-        <div>4 {% card "Quirion Ranger" %}</div>
-        <div>4 {% card "Fyndhorn Elves" %}</div>
-        <div>4 {% card "Wirewood Symbiote" %}</div>
-        <div>2 {% card "Wellwisher" %}</div>
-        <div>2 {% card "Elvish Vanguard" %}</div>
-        <div>4 {% card "Wirewood Hivemaster" %}</div>
-        <div>4 {% card "Priest of Titania" %}</div>
+        <div>1 {% card Elvish Lyrist %}</div>
+        <div>2 {% card Elvish Scrapper %}</div>
+        <div>4 {% card Birchlore Rangers %}</div>
+        <div>4 {% card Quirion Ranger %}</div>
+        <div>4 {% card Fyndhorn Elves %}</div>
+        <div>4 {% card Wirewood Symbiote %}</div>
+        <div>2 {% card Wellwisher %}</div>
+        <div>2 {% card Elvish Vanguard %}</div>
+        <div>4 {% card Wirewood Hivemaster %}</div>
+        <div>4 {% card Priest of Titania %}</div>
     </div>
     <div>
-        <div>4 {% card "Timberwatch Elf" %}</div>
-        <div>4 {% card "Sylvan Messenger" %}</div>
+        <div>4 {% card Timberwatch Elf %}</div>
+        <div>4 {% card Sylvan Messenger %}</div>
         <div>&nbsp;</div>
-        <div>3 {% card "Crop Rotation" %}</div>
-        <div>1 {% card "Earthcraft" %}</div>
+        <div>3 {% card Crop Rotation %}</div>
+        <div>1 {% card Earthcraft %}</div>
         <div>&nbsp;</div>
-        <div>7 {% card "Forest" %}</div>
-        <div>4 {% card "Windswept Heath" %}</div>
-        <div>2 {% card "Wooded Foothills" %}</div>
-        <div>1 {% card "Wirewood Lodge" %}</div>
-        <div>4 {% card "Gaea's Cradle" %}</div>
+        <div>7 {% card Forest %}</div>
+        <div>4 {% card Windswept Heath %}</div>
+        <div>2 {% card Wooded Foothills %}</div>
+        <div>1 {% card Wirewood Lodge %}</div>
+        <div>4 {% card Gaea's Cradle %}</div>
     </div>
     <div>
         Sideboard:
-        <div>3 {% card "Phyrexian Furnace" %}</div>
-        <div>1 {% card "Elvish Lyrist" %}</div>
-        <div>2 {% card "Wellwisher" %}</div>
-        <div>3 {% card "Steely Resolve" %}</div>
-        <div>3 {% card "Naturalize" %}</div>
-        <div>3 {% card "Caller of the Claw" %}</div>
+        <div>3 {% card Phyrexian Furnace %}</div>
+        <div>1 {% card Elvish Lyrist %}</div>
+        <div>2 {% card Wellwisher %}</div>
+        <div>3 {% card Steely Resolve %}</div>
+        <div>3 {% card Naturalize %}</div>
+        <div>3 {% card Caller of the Claw %}</div>
     </div>
 </div>
 
@@ -181,49 +181,49 @@ _Not available_
 
 <div class="deck">
     <div>
-        <div>4 {% card "Portent" %}</div>
-        <div>4 {% card "Sleight of Hand" %}</div>
-        <div>3 {% card "Opt" %}</div>
-        <div>1 {% card "Lat-Nam's Legacy" %}</div>
-        <div>1 {% card "Brainstorm" %}</div>
+        <div>4 {% card Portent %}</div>
+        <div>4 {% card Sleight of Hand %}</div>
+        <div>3 {% card Opt %}</div>
+        <div>1 {% card Lat-Nam's Legacy %}</div>
+        <div>1 {% card Brainstorm | set: ice %}</div>
         <div>&nbsp;</div>
-        <div>4 {% card "Duress" %}</div>
-        <div>4 {% card "Orim's Chant" %}</div>
+        <div>4 {% card Duress %}</div>
+        <div>4 {% card Orim's Chant %}</div>
         <div>&nbsp;</div>
-        <div>4 {% card "Dark Ritual" %}</div>
-        <div>4 {% card "Lotus Petal" %}</div>
-        <div>4 {% card "Lion's Eye Diamond" %}</div>
+        <div>4 {% card Dark Ritual %}</div>
+        <div>4 {% card Lotus Petal %}</div>
+        <div>4 {% card Lion's Eye Diamond %}</div>
         <div>&nbsp;</div>
-        <div>3 {% card "Tendrils of Agony" %}</div>
-        <div>1 {% card "Yawgmoth's Will" %}</div>
+        <div>3 {% card Tendrils of Agony %}</div>
+        <div>1 {% card Yawgmoth's Will %}</div>
     </div>
     <div>
-        <div>2 {% card "Chain of Vapor" %}</div>
-        <div>2 {% card "Chromatic Sphere" %}</div>
+        <div>2 {% card Chain of Vapor %}</div>
+        <div>2 {% card Chromatic Sphere %}</div>
         <div>&nbsp;</div>
-        <div>1 {% card "Lim-Dûl's Vault" %}</div>
-        <div>1 {% card "Vampiric Tutor" %}</div>
-        <div>1 {% card "Mystical Tutor" %}</div>
-        <div>1 {% card "Demonic Consultation" %}</div>
+        <div>1 {% card Lim-Dûl's Vault %}</div>
+        <div>1 {% card Vampiric Tutor %}</div>
+        <div>1 {% card Mystical Tutor %}</div>
+        <div>1 {% card Demonic Consultation %}</div>
         <div>&nbsp;</div>
-        <div>4 {% card "Polluted Delta" %}</div>
-        <div>4 {% card "Gemstone Mine" %}</div>
-        <div>2 {% card "Underground River" %}</div>
-        <div>2 {% card "Island" %}</div>
-        <div>2 {% card "Swamp" %}</div>
-        <div>1 {% card "Undiscovered Paradise" %}</div>
+        <div>4 {% card Polluted Delta %}</div>
+        <div>4 {% card Gemstone Mine %}</div>
+        <div>2 {% card Underground River %}</div>
+        <div>2 {% card Island %}</div>
+        <div>2 {% card Swamp %}</div>
+        <div>1 {% card Undiscovered Paradise %}</div>
     </div>
     <div>
         Sideboard:
-        <div>4 {% card "Oath of Druids" %}</div>
-        <div>2 {% card "Phantom Nishoba" %}</div>
-        <div>1 {% card "Akroma, Angel of Wrath" %}</div>
-        <div>2 {% card "Serenity" %}</div>
-        <div>1 {% card "Rushing River" %}</div>
-        <div>1 {% card "Massacre" %}</div>
-        <div>2 {% card "Coffin Purge" %}</div>
-        <div>1 {% card "Equipoise" %}</div>
-        <div>1 {% card "Defense Grid" %}</div>
+        <div>4 {% card Oath of Druids %}</div>
+        <div>2 {% card Phantom Nishoba %}</div>
+        <div>1 {% card Akroma, Angel of Wrath %}</div>
+        <div>2 {% card Serenity %}</div>
+        <div>1 {% card Rushing River %}</div>
+        <div>1 {% card Massacre %}</div>
+        <div>2 {% card Coffin Purge %}</div>
+        <div>1 {% card Equipoise %}</div>
+        <div>1 {% card Defense Grid %}</div>
     </div>
 </div>
 
