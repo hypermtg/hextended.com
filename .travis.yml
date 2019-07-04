@@ -8,7 +8,7 @@ script:
   - git fetch upstream
   - rm -rf ./_site
   - git worktree add _site -B gh-pages
-  - bundle exec jekyll build --trace
+  - bundle exec jekyll build --trace --future
   - cd _site
   - git add --all
   - git config --global user.name "travis-ci"

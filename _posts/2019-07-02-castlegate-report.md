@@ -5,7 +5,7 @@ author: brendanhagan
 date: 2019-07-03 19:22:00 -0500
 categories: blog
 tags: events report decks
-image: /assets/img/compuserve/20181222_221036.jpg
+image: /assets/img/castlegate/D-QcTO8WkAAxUld.jpg
 ---
 
 The Castlegate Classic has concluded with the only newcomer to the format present taking first place. After 5 rounds and a cut to top 8, Jacob Baggs stood alone at the top with Goblins.

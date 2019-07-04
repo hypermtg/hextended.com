@@ -1,5 +1,5 @@
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico?{{ site.time | date:'%Y%m%d%U%H%N%S' }}" type="image/x-icon" />
 
 <meta charset="UTF-8">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -17,7 +17,7 @@
 <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 
-<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:site" content="#{{ site.twitter_username }}">
 
 {% assign author = site.data.authors[page.author] %}
 {% if author.twitter %}
@@ -40,7 +40,7 @@
 <meta name="twitter:image" content="{{ site.url }}{{ site.meta_image }}">
 {% endif %}
 
-<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/main.css?{{ site.time | date:'%Y%m%d%U%H%N%S' }}">
 
 {% if site.google_analytics.enabled %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics.id }}"></script>
