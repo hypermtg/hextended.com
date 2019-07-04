@@ -5,6 +5,7 @@ author: teamtuskmtg
 date: 2019-07-03 19:25:00 -0500
 categories: blog
 tags: announcement
+image: /assets/img/castlegate/20190629_162347.jpg
 ---
 
 <<< HYPEREXTENDED POST-CASTLEGATE CLASSIC RESTRICTED LIST ANNOUNCEMENT >>>
