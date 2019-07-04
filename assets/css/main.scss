@@ -46,6 +46,7 @@ img {
     width: 100%;
     height: auto;
     max-width: 100%;
+    image-orientation: from-image;
 }
 
 header {
@@ -212,7 +213,11 @@ table {
     max-width: 100%;
 
     img {
-        width: auto;
+        width: 50%;
+
+        @media (max-device-width: 600px) {
+            width: auto;
+        }
     }
 }
 
