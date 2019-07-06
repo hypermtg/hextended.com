@@ -16,6 +16,8 @@ exclude:
 - Gemfile
 - Gemfile.lock
 
+incremental: true
+
 twitter_username: hextended
 github_username:  hypermtg
 github_repo: hypermtg/hypermtg.github.io
