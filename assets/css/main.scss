@@ -239,3 +239,23 @@ table {
         opacity: 0.5;
     }
 }
+
+#navigation {
+    margin: 3em 0;
+
+    .label {
+        font-size: 1.25em;
+    }
+
+    .prev {
+        text-align: left;
+    }
+
+    .next {
+        text-align: right;
+    }
+
+    .prev, .next {
+        margin: 3em 0;
+    }
+}
