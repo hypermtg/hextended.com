@@ -47,7 +47,8 @@
     // Set the autocard target and listeners.
     scryfallCardLinks.forEach(link => {
         const path = new URL(link.href).pathname.split('/');
-        const imageUrl = `https://img.scryfall.com/cards/normal/en/${path[2]}/${path[3]}.jpg?utm_source=hextended`;
+        const imageUrl = `https://api.scryfall.com/cards/${path[2]}/${path[3]}?format=image&version=normal&utm_source=hexended`
+
         link.classList.add('scryfall-hover');
 
         link.addEventListener('mouseover', () => {
