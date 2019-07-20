@@ -1,12 +1,17 @@
 // https://scryfall.com/card/mmq/61/brainstorm
-// https://img.scryfall.com/cards/large/en/mmq/61.jpg?1517813031
+// https://scryfall.com/card/:code/:number/:name
+// https://api.scryfall.com/cards/:code/:number
 
 (() => {
+    const isMobile = 'ontouchstart' in document.documentElement;
+
     const scryfallLinks = document.querySelectorAll(`a[href*="scryfall.com"]`);
     const scryfallCardLinks = document.querySelectorAll(`a[href*="scryfall.com/card/"]`);
 
-    document.querySelector('body').insertAdjacentHTML('beforeend', `<img id="scryfall-tooltip" style="display: block; position: absolute; width: 250px; height: auto; border-radius: 11px;"/>`);
     const scryfallTooltip = document.querySelector('#scryfall-tooltip');
+    const scryfallTooltipImage = document.querySelector('#scryfall-tooltip-image');
+
+    scryfallTooltip.classList.add(isMobile ? 'mobile' : 'desktop');
 
     const mouseMoveEvent = (e) => {
         // Adding 40 here to account for the 10 px float and any scrollbars.
@@ -23,15 +28,28 @@
         }
     };
 
-    const showScryfallImage = (url) => {
+    if (scryfallTooltip) {
+        scryfallTooltip.addEventListener('click', () => {
+            console.log('click dismiss');
+            scryfallTooltip.style.display = 'none';
+            scryfallTooltipImage.src = '';
+        });
+    }
+
+    const scryfallImageClick = (url) => {
+        scryfallTooltipImage.src = url;
+        scryfallTooltip.style.display = 'grid';
+    }
+
+    const showScryfallImageHover = (url) => {
         document.addEventListener('mousemove', mouseMoveEvent);
-        scryfallTooltip.src = url;
+        scryfallTooltipImage.src = url;
         scryfallTooltip.style.display = 'block';
     };
 
-    const hideScryfallImage = () => {
+    const hideScryfallImageHover = () => {
         document.removeEventListener('mousemove', mouseMoveEvent);
-        scryfallTooltip.src = '';
+        scryfallTooltipImage.src = '';
         scryfallTooltip.style.display = 'none';
     };
 
@@ -51,12 +69,19 @@
 
         link.classList.add('scryfall-hover');
 
-        link.addEventListener('mouseover', () => {
-            showScryfallImage(imageUrl);
-        });
+        if (isMobile) {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                scryfallImageClick(imageUrl);
+            });
+        } else {
+            link.addEventListener('mouseover', () => {
+                showScryfallImageHover(imageUrl);
+            });
 
-        link.addEventListener('mouseout', () => {
-            hideScryfallImage();
-        });
+            link.addEventListener('mouseout', () => {
+                hideScryfallImageHover();
+            });
+        }
     });
 })();
