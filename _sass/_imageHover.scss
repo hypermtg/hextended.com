@@ -109,7 +109,13 @@
         height: auto;
 
         #scryfall-tooltip-spinner {
-            display: none;
+            display: block;
+            position: absolute;
+            z-index: -1;
+
+            > div {
+                background: #000;
+            }
         }
 
         #scryfall-tooltip-image {

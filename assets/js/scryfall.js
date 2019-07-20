@@ -30,27 +30,41 @@
 
     if (scryfallTooltip) {
         scryfallTooltip.addEventListener('click', () => {
-            console.log('click dismiss');
             scryfallTooltip.style.display = 'none';
             scryfallTooltipImage.src = '';
         });
     }
 
+    const scryfallXhr = new XMLHttpRequest();
+
+    const loadScryfallImage = (url) => {
+        // Using a XHR because some browsers don't link handling 302 redirects apparently.
+        // const xhr = new XMLHttpRequest();
+        scryfallXhr.abort();
+        scryfallXhr.open('GET', url, true);
+        scryfallXhr.onload = () => {
+            if (scryfallTooltip.style.display !== 'none') {
+                scryfallTooltipImage.src = scryfallXhr.responseURL;
+            }
+        }
+        scryfallXhr.send();
+    }
+
     const scryfallImageClick = (url) => {
-        scryfallTooltipImage.src = url;
+        loadScryfallImage(url);
         scryfallTooltip.style.display = 'grid';
     }
 
     const showScryfallImageHover = (url) => {
+        loadScryfallImage(url);
         document.addEventListener('mousemove', mouseMoveEvent);
-        scryfallTooltipImage.src = url;
         scryfallTooltip.style.display = 'block';
     };
 
     const hideScryfallImageHover = () => {
         document.removeEventListener('mousemove', mouseMoveEvent);
-        scryfallTooltipImage.src = '';
         scryfallTooltip.style.display = 'none';
+        scryfallTooltipImage.src = '';
     };
 
     // Add 'hextended' as the utm_source.
