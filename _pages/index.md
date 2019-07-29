@@ -82,7 +82,7 @@ Wishes may retrieve cards from your sideboard or exile.
 
 Graveyard order matters, a lot.
 
-Other modern day rules, such as the Vancouver mulligan (the Scry mulligan), are in effect.
+Other modern day rules, such as the London mulligan (the 7-7-7 mulligan), are in effect.
 
 <hr/>
 
