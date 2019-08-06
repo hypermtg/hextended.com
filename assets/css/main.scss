@@ -34,6 +34,8 @@ p {
     // margin: 0 0 25pt 0;
     text-align: justify;
     word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 h1, h2 {
@@ -205,6 +207,11 @@ table {
 .image-set {
     display: flex;
     flex-direction: column;
+
+    img {
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+    }
 }
 
 .image-pair {
