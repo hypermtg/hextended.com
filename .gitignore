@@ -5,3 +5,5 @@ _site/
 
 # Downloaded copy of the Scryfall schema to use as a starting point constructing scryfall-filtered-cards.json
 _plugins/scryfall-default-cards.json
+
+assets/img/**/original/
