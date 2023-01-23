@@ -70,17 +70,11 @@ Hyper Extended features a restricted list (<a href="/restricted-list">Visual Vie
 
 <h1>Rules</h1>
 
-No white bordered cards are allowed. No new frame or time shifted cards are allowed. You must use the card from the set and can't use reprints even going backwards. For example Ice Age contains <a href="https://scryfall.com/card/ice/54/swords-to-plowshares">Swords to Plowshares</a>, you can't use a <a href="https://scryfall.com/card/3ed/41/swords-to-plowshares">Revised</a> one, or a crappy <a href="https://scryfall.com/card/4ed/52/swords-to-plowshares">4th</a> one. You can't even use a gorgeous <a href="https://scryfall.com/card/leb/41/swords-to-plowshares">Beta</a> one. <a href="https://scryfall.com/card/por/39/wrath-of-god">Wrath of God</a> is found only in Portal, you must use that one. If a card is in multiple legal sets you may use any, or mix and match to trigger your opponents.
-
-Gold bordered "Championship" cards are permitted, given that they match a legal printing of the card and would be otherwise legal in the format. For example, you can use <a href="https://scryfall.com/card/wc98/bs129/survival-of-the-fittest">Survival of the Fittest</a>, but you still can't use <a href="https://scryfall.com/card/wc00/jk217/birds-of-paradise">Birds of Paradise</a>.
-
-You may play basic lands from any of the promo sets in that time period, as well as those from Unglued.
+Gold bordered "Championship" cards are permitted, given that they would otherwise be legal in the format. For example, you can use <a href="https://scryfall.com/card/wc98/bs129/survival-of-the-fittest">Survival of the Fittest</a>, but you still can't use <a href="https://scryfall.com/card/wc00/jk217/birds-of-paradise">Birds of Paradise</a>.
 
 Mana burn is on like donkey kong.
 
 Wishes may retrieve cards from your sideboard or exile.
-
-Graveyard order matters, a lot.
 
 Other modern day rules, such as the London mulligan (the 7-7-7 mulligan), are in effect.
 
