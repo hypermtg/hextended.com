@@ -9,7 +9,7 @@ gem "jekyll", "~> 3.8.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-sitemap",  "~> 1.3.1"
-  gem "jekyll-octicons", "~> 8.2.0"
+  gem "jekyll-octicons", "~> 19.8.0"
   gem "jekyll-admin", "~> 0.8.1"
   gem "jekyll-archives", "~> 2.2.1"
 end
