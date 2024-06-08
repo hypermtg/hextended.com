@@ -1,1 +1,6 @@
 $base-font-family: Monospace, Courier;
+
+a {
+    text-underline-offset: 0.1em;
+    text-decoration-thickness: 0.075em;
+}
