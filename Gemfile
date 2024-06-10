@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rack", "~> 2.2"
+gem "rack", "~> 3.0"
 gem "jekyll", "~> 4.3.3"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
