@@ -87,5 +87,5 @@ Other modern day rules, such as the London mulligan (the 7-7-7 mulligan), are in
 Here's a starter Scryfall search that you can use to check on whether various cards existed during this time period.
 
 <p style="text-align: unset;">
-    <a href="https://scryfall.com/search?q=game%3Apaper+language%3Aenglish+border%3Ablack+is%3Abooster+date%3E%3Dfem+date%3C%3Dscg&unique=cards&as=grid&order=name">game:paper language:english border:black is:booster date>=fem date<=scg</a>
+    <a href="https://scryfall.com/search?q=game%3Apaper+language%3Aenglish+border%3Ablack+is%3Abooster+-st%3Acore+date%3E%3Dfem+date%3C%3Dscg&unique=cards&as=grid&order=name">game:paper language:english border:black is:booster -st:core date>=fem date<=scg</a>
 </p>
