@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rack", "~> 3.2"
-gem "jekyll", "~> 4.3.3"
+gem "jekyll", "~> 4.4.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -11,8 +11,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
   gem "jekyll-sitemap",  "~> 1.4.0"
   gem "jekyll-octicons", "~> 19.8.0"
-  gem "jekyll-admin", "~> 0.11.1"
-  gem "jekyll-archives", "~> 2.2.1"
+  gem "jekyll-admin", "~> 0.12.0"
+  gem "jekyll-archives", "~> 2.3.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
