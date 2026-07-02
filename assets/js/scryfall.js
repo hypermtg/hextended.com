@@ -46,6 +46,7 @@
             .then(data => {
                 if (scryfallTooltip.style.display !== 'none') {
                     scryfallTooltipImage.src = data.image_uris.normal;
+                    scryfallTooltipImage.alt = data.name || 'Card image';
                 }
             })
             .catch(err => {
