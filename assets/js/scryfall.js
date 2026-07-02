@@ -80,7 +80,7 @@
     // Set the autocard target and listeners.
     scryfallCardLinks.forEach(link => {
         const path = new URL(link.href).pathname.split('/');
-        const imageUrl = `https://api.scryfall.com/cards/${path[2]}/${path[3]}?format=json&utm_source=hexended`
+        const imageUrl = `https://api.scryfall.com/cards/${path[2]}/${path[3]}?format=json&utm_source=hextended`
 
         link.classList.add('scryfall-hover');
 
