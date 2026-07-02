@@ -35,20 +35,23 @@
         });
     }
 
-    const scryfallXhr = new XMLHttpRequest();
+    let abortController = null;
 
     const loadScryfallImage = (url) => {
-        // Using a XHR because some browsers don't like handling 302 redirects on img tags apparently.
-        // For some reason Chrome/Scryfall allow the api call, but the image gets blocked by CORS?
-        scryfallXhr.abort();
-        scryfallXhr.open('GET', url, true);
-        scryfallXhr.onload = () => {
-            if (scryfallTooltip.style.display !== 'none') {
-                const responseJson = JSON.parse(scryfallXhr.response);
-                scryfallTooltipImage.src = responseJson.image_uris.normal;
-            }
-        }
-        scryfallXhr.send();
+        if (abortController) abortController.abort();
+        abortController = new AbortController();
+
+        fetch(url, { signal: abortController.signal })
+            .then(response => response.json())
+            .then(data => {
+                if (scryfallTooltip.style.display !== 'none') {
+                    scryfallTooltipImage.src = data.image_uris.normal;
+                    scryfallTooltipImage.alt = data.name || 'Card image';
+                }
+            })
+            .catch(err => {
+                if (err.name !== 'AbortError') console.error('Scryfall fetch error:', err);
+            });
     }
 
     const scryfallImageClick = (url) => {
@@ -80,7 +83,7 @@
     // Set the autocard target and listeners.
     scryfallCardLinks.forEach(link => {
         const path = new URL(link.href).pathname.split('/');
-        const imageUrl = `https://api.scryfall.com/cards/${path[2]}/${path[3]}?format=json&utm_source=hexended`
+        const imageUrl = `https://api.scryfall.com/cards/${path[2]}/${path[3]}?format=json&utm_source=hextended`
 
         link.classList.add('scryfall-hover');
 

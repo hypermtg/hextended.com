@@ -2,7 +2,7 @@
 layout: post
 title: "Hyper Extended"
 author: teamtuskmtg
-date: 2018-02-17 13:46:56 -0500
+date: 2018-12-17 13:46:56 -0500
 categories: blog
 tags: announcement
 ---

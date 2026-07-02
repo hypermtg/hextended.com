@@ -5,24 +5,6 @@ title: "Restricted List"
 subtitle: "Currently restricted cards."
 ---
 
-<style>
-    #restricted-images {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-column-gap: 1vw;
-        grid-row-gap: 1vw;
-        justify-items: center;
-    }
-
-    @media all and (max-width: 699px) {
-        #restricted-images {
-            grid-template-columns: repeat(2, 1fr);
-        }
-    }
-
-
-</style>
-
 <p>The following cards are restricted to one copy per deck.
 
 <p id="restricted-list">

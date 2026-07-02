@@ -44,6 +44,7 @@ class CardTag < Liquid::Tag
 
                 card = {}
                 card['name'] = @config[:card_name]
+                card_url = "https://scryfall.com/search?q=#{URI.encode_www_form_component(@config[:card_name])}&utm_source=hextended"
             end
         end
 

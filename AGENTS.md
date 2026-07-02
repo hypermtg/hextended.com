@@ -21,6 +21,7 @@ Requires Ruby with Bundler. The `--future` flag renders posts with future dates.
 | `_includes/` | `head.html` (meta/Twitter cards), `scripts.html` (Scryfall tooltips) |
 | `_data/authors.yml` | Author profiles with `name` and `twitter` fields |
 | `_plugins/card_tag.rb` | Custom Liquid tag for Scryfall card links |
+| `_plugins/strip.js` | Node utility to rebuild `scryfall-filtered-cards.json` from Scryfall API data — do not delete |
 | `_sass/` | SCSS partials imported by `assets/css/main.scss` |
 | `assets/js/scryfall.js` | Client-side card image hover/modal tooltips |
 | `_site/` | Generated output (gitignored for local dev, built by GH Pages) |

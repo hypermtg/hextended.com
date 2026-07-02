@@ -20,10 +20,6 @@ incremental: true
 
 twitter_username: hextended
 github_username:  hypermtg
-github_repo: hypermtg/hypermtg.github.io
-google_analytics:
-  enabled: false
-  id: UA-129495562-1
 
 markdown: kramdown
 kramdown:

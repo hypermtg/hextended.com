@@ -4,12 +4,6 @@ permalink: /decks/
 title: "Sample Decks"
 ---
 
-<style>
-    .deck {
-        margin-bottom: 5em;
-    }
-</style>
-
 <h2>GBr Survival, <a href="https://twitter.com/targetplayer">Sol Malka</a></h2>
 <hr/>
 
