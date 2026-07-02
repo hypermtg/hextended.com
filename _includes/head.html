@@ -41,14 +41,3 @@
 {% endif %}
 
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css?{{ site.time | date:'%Y%m%d%U%H%N%S' }}">
-
-{% if site.google_analytics.enabled %}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics.id }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{ site.google_analytics.id }}');
-</script>
-{% endif %}
