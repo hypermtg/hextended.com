@@ -50,7 +50,6 @@ img {
     width: 100%;
     height: auto;
     max-width: 100%;
-    image-orientation: from-image;
 }
 
 header {
@@ -145,6 +144,18 @@ content {
     }
 }
 
+#restricted-images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 1vw;
+    grid-row-gap: 1vw;
+    justify-items: center;
+
+    @media all and (max-width: 699px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 #post-list {
     margin-top: 1em;
 
@@ -187,6 +198,7 @@ table {
 
 .deck {
     display: flex;
+    margin-bottom: 5em;
 
     > div {
         flex-grow: 1;
