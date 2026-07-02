@@ -11,7 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
   gem "jekyll-sitemap",  "~> 1.4.0"
   gem "jekyll-octicons", "~> 19.8.0"
-  gem "jekyll-admin", "~> 0.11.1"
+  gem "jekyll-admin", "~> 0.12.0"
   gem "jekyll-archives", "~> 2.2.1"
 end
 
