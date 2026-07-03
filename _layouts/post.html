@@ -23,8 +23,10 @@ layout: page
     {{ content }}
 </section>
 
+{% if page.previous.url or page.next.url %}
 <section id="navigation">
     <hr/>
+    <div class="nav-links">
     {% if page.previous.url %}
         <div class="prev">
             <div class="label">PREVIOUS</div>
@@ -37,4 +39,6 @@ layout: page
             <div><a href="{{page.next.url}}">{{page.next.title}}</a></div>
         </div>
     {% endif %}
+    </div>
 </section>
+{% endif %}

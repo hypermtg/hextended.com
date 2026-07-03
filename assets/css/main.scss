@@ -114,14 +114,16 @@ content {
     justify-content: space-evenly;
     flex-wrap: wrap;
     margin-bottom: 45px;
+    gap: 5px;
 
     a {
         flex: 1;
-        min-width: 125px;
+        min-width: 110px;
         max-width: 125px;
 
         text-align: center;
         text-decoration: none;
+        overflow-wrap: break-word;
     }
 
     i {
@@ -264,6 +266,11 @@ table {
 #navigation {
     margin: 3em 0;
 
+    .nav-links {
+        display: flex;
+        justify-content: space-between;
+    }
+
     .label {
         font-size: 1.25em;
     }
@@ -274,9 +281,6 @@ table {
 
     .next {
         text-align: right;
-    }
-
-    .prev, .next {
-        margin: 3em 0;
+        margin-left: auto;
     }
 }
