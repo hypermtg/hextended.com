@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "common";
-@import "imageHover";
+@use "common";
+@use "imageHover";
 
 body {
-    font-family: $base-font-family;
+    font-family: common.$base-font-family;
     background: #F5F5F0;
 
     padding: 0 2ch;
