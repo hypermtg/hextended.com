@@ -114,14 +114,16 @@ content {
     justify-content: space-evenly;
     flex-wrap: wrap;
     margin-bottom: 45px;
+    gap: 5px;
 
     a {
         flex: 1;
-        min-width: 125px;
+        min-width: 110px;
         max-width: 125px;
 
         text-align: center;
         text-decoration: none;
+        overflow-wrap: break-word;
     }
 
     i {
