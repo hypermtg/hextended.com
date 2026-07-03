@@ -20,6 +20,7 @@ incremental: true
 
 twitter_username: hextended
 github_username:  hypermtg
+github_repo: hypermtg/hextended.com
 
 markdown: kramdown
 kramdown:
