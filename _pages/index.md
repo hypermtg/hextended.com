@@ -4,7 +4,6 @@ permalink: /
 ---
 
 <div id="set-list">
-    <a href="https://scryfall.com/sets/fem"><i class="ss ss-4x ss-fw ss-fem"></i>Fallen Empires</a>
     <a href="https://scryfall.com/sets/hml"><i class="ss ss-4x ss-fw ss-hml"></i>Homelands</a>
     <a href="https://scryfall.com/sets/ice"><i class="ss ss-4x ss-fw ss-ice"></i>Ice Age</a>
     <a href="https://scryfall.com/sets/all"><i class="ss ss-4x ss-fw ss-all"></i>Alliances</a>
@@ -33,7 +32,7 @@ permalink: /
     <a href="https://scryfall.com/sets/scg"><i class="ss ss-4x ss-fw ss-scg"></i>Scourge</a>
 </div>
 
-Hyper Extended is a constructed format composed of the black bordered sets from Fallen Empires to Scourge, including the Portal sets One and Second Age and the following promos.
+Hyper Extended is a constructed format composed of the black bordered sets from Homelands to Scourge, including the Portal sets One and Second Age and the following promos.
 <div id="promo-list">
     <a href="https://scryfall.com/card/plgm/1/counterspell">DCI Counterspell (Dom! Art)</a>
     <a href="https://scryfall.com/card/plgm/2/incinerate">DCI Incinerate (Jock Art)</a>
@@ -45,15 +44,12 @@ All ante cards are banned.
 Hyper Extended features a restricted list (<a href="/restricted-list">Visual View</a>):
 
 <p id="restricted-list">
-    {% card Academy Rector %}
     {% card Ancient Tomb %}
     {% card Brainstorm %}
     {% card Burning Wish %}
     {% card Demonic Consultation %}
     {% card Earthcraft %}
-    {% card Enlightened Tutor %}
-    {% card Frantic Search %}
-    {% card Goblin Recruiter %}
+    {% card Flash %}
     {% card Memory Jar %}
     {% card Mind's Desire %}
     {% card Mystical Tutor %}
@@ -61,7 +57,6 @@ Hyper Extended features a restricted list (<a href="/restricted-list">Visual Vie
     {% card Tinker %}
     {% card Tolarian Academy %}
     {% card Vampiric Tutor %}
-    {% card Windfall %}
     {% card Yawgmoth's Bargain %}
     {% card Yawgmoth's Will %}
 </p>
