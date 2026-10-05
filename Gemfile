@@ -8,7 +8,7 @@ gem "jekyll", "~> 4.4.1"
 # gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-feed", "~> 0.18"
   gem "jekyll-sitemap",  "~> 1.4.0"
   gem "jekyll-octicons", "~> 19.8.0"
   gem "jekyll-admin", "~> 0.12.0"
